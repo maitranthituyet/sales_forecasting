@@ -1,8 +1,10 @@
 # Sales Forecasting
 
-Status: IN PROGRESS
+<b>Status</b>: IN PROGRESS
 
-Source: [Store Sales TS Forecasting - A Comprehensive Guide](https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide/input?select=transactions.csv)
+<b>Source</b>: [Store Sales TS Forecasting - A Comprehensive Guide](https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide/input?select=transactions.csv)\
+
+<b>My working - jupyter notebook</b>: [Sales Forecasting](https://drive.google.com/drive/folders/1sGofF-uxvVdP9puOz3PZWmEJkTcSf7x3?usp=sharing)
 
 Learning Objective:
 *  Interpolation for Oil Prices
